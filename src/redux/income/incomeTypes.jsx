@@ -1,0 +1,3 @@
+export const INCOME_REQUEST = "INCOME_REQUEST";
+export const INCOME_SUCCESS = "INCOME_SUCCESS";
+export const INCOME_FAIL = "INCOME_FAIL";

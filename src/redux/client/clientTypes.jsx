@@ -1,0 +1,3 @@
+export const CLEINT_REQUEST = "CLEINT_REQUEST";
+export const CLEINT_SUCCESS = "CLEINT_SUCCESS";
+export const CLEINT_FAIL = "CLEINT_FAIL";
