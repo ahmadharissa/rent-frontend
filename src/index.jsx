@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 
 //components
 import App from "./App";
@@ -23,5 +24,6 @@ root.render(
   <Provider store={store}>
     <App />
     <ToastContainer />
+    <SpeedInsights />
   </Provider>
 );
